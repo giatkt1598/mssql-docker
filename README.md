@@ -1,11 +1,7 @@
 # MSSQL 2019 in Docker
 ## Set up & run images
 ```bash
-docker-compose up
-```
-## Out terminal but no stop container
-```bash
-Ctrl + Z
+docker-compose up -d
 ```
 **Username**: sa
 
